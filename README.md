@@ -48,3 +48,5 @@ http://127.0.0.1:8000/docs
 ```
 
 Cette interface permet de consulter et tester les différents endpoints exposés par l’application.
+
+### Mention spéciale : il s'agit de mon fork du projet
